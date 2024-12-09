@@ -1,13 +1,17 @@
-🎯 ITThink - Gestion de Base de Données
-📝 Contexte du Projet
+#🎯 ITThink - Gestion de Base de Données
+
+**📝 Contexte du Projet
+
 Le projet ITThink consiste à concevoir une base de données robuste et bien structurée pour répondre aux besoins d'une plateforme mettant en relation des utilisateurs, des projets, des catégories, des freelances, des offres, et des témoignages. Ce système permettra une gestion optimale des données et une extensibilité pour des fonctionnalités futures.
 
-🎯 Objectifs
+**🎯 Objectifs
+
 Concevoir un schéma de base de données respectant les bonnes pratiques (normalisation, intégrité des données).
 Documenter les relations via des diagrammes UML et un diagramme relationnel (ERD).
 Développer les scripts SQL pour créer et gérer la base de données.
 Assurer une optimisation des performances et une extensibilité pour la croissance future de la plateforme.
-🗂️ Structure de la Base de Données
+
+**🗂️ Structure de la Base de Données
 Tables Principales :
 Utilisateurs
 
